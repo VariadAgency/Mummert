@@ -140,4 +140,4 @@ Newsletter-Anmeldung für exklusive Angebote und Updates zu neuen Releases.
 **Version**: 1.0.0
 **Letzte Aktualisierung**: 03.02.2024
 
-*Hinweis: Dies ist eine Demo-Seite. Alle Produktbilder sind Platzhalter. Für die Produktion sollten echte Produktfotos hinzugefügt werden.*
+*Hinweis: Dies ist eine Demo-Seite. Alle Produktbilder sind jetzt hinzugefügt.*
