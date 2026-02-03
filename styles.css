@@ -975,6 +975,43 @@ body {
     }
 }
 
+/* Payment Options */
+.payment-options {
+    margin-top: 32px;
+    padding-top: 32px;
+    border-top: 1px solid var(--border-color);
+}
+
+.payment-divider {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.payment-divider span {
+    color: var(--text-secondary);
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0 16px;
+    background: white;
+    position: relative;
+}
+
+.payment-divider::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    height: 1px;
+    background: var(--border-color);
+    z-index: -1;
+}
+
+#paypal-button-container {
+    margin: 0 auto;
+    max-width: 400px;
+}
+
 /* Animations */
 @keyframes fadeIn {
     from {
